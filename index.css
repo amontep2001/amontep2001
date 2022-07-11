@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
 body {
     background: url("test/tokyo\ blur.png") no-repeat center center;
     background-size: 1400px 700px;
@@ -7,7 +8,7 @@ body {
   
   
   .text {
-    font-family: raleway;
+    font-family: 'Comfortaa';
     font-size: 40px;
     position: absolute center;
     text-align: center;
@@ -17,7 +18,7 @@ body {
   }
   
   .text1 {
-    font-family: raleway;
+    font-family: 'Comfortaa';
     font-size: 21px;
     text-align: center;
     margin-top: -20px;
