@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
 body {
     background: url("test/tokyo\ blur.png") no-repeat center center;
-    background-size: 1400px 700px;
+  
     background-position: 30%;
     background-attachment: fixed;
-  }
-  
+}
   
   .text {
     font-family: 'Comfortaa';
